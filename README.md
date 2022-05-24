@@ -1,8 +1,8 @@
 Date created
-Include the date you created this project and README file.
+May 23, 2022
 
 Project Title
-Replace the Project Title
+Investigate a relational database
 
 Description
 Describe what your project is about and what it does
