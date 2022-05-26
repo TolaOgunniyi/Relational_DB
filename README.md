@@ -13,6 +13,11 @@ In this project, SQL is used to explore a database related to movie rentals. The
 
 Files used
 
+ERD Diagram for Sakila Movie rentals
+
+Sakila Database (.csv files) - Provided by UDACITY
 
 
 Credits
+
+https://knowledge.udacity.com/questions/789539
